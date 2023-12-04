@@ -1,0 +1,5 @@
+DARK SPACE
+
+
+replace the eboot and place the .bin and .sprx file inside your tmp folder
+open the menu with r3 + left
